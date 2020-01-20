@@ -6,7 +6,7 @@ My learning roadmap, 2020 - and beyond!
 
 *Shield logo by me.*
 
-I'm starting my **AssDegInfoTech™️** in February. I find it hard to visualise what I know, where I've been, where I'm going next. So I finally got around to scribbling on these road maps and making a big todo list. A work in progress, forever, until I die.
+I'm starting my **AssDegInfoTech<sup>TM</sup>** in February. I find it hard to visualise what I know, where I've been, where I'm going next. So I finally got around to scribbling on these road maps and making a big todo list. A work in progress, forever, until I die.
 
 ## Roadmaps
 
