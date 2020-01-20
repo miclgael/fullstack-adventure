@@ -4,21 +4,17 @@ My learning roadmap, 2020 - and beyond!
 
 <img src="assets/FED-logo.png" width="80" height="90.21" alt="A shield with open and closing code braces as the crest">
 
+*Shield logo by me.*
+
+I'm starting my **AssDegInfoTech™️** in February. I find it hard to visualise what I know, where I've been, where I'm going next. So I finally got around to scribbling on these road maps and making a big todo list. A work in progress, forever, until I die.
+
 ## Roadmaps
 
 Taken from @kamranahmedse's [roadmap.sh](https://roadmap.sh). Scribbled on by me.
 
-Shield logo by me. 
-
-### Front End
-
 ![Frontend](/assets/roadmaps-frontend.png)
 
-### Back End
-
 ![Backend](/assets/roadmaps-backend.png)
-
-### DevOps
 
 ![DevOps](/assets/roadmaps-devops.png)
 
