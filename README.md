@@ -1,4 +1,4 @@
-# Front-end Adventure!
+# Full Stack Adventure!
 
 My learning roadmap, 2020 - and beyond!
 
@@ -6,7 +6,9 @@ My learning roadmap, 2020 - and beyond!
 
 ## Roadmaps
 
-Taken from roadmaps.sh. Scribbled on by me.
+Taken from @kamranahmedse's [roadmap.sh](https://roadmap.sh). Scribbled on by me.
+
+Shield logo by me. 
 
 ### Front End
 
