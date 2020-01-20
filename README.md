@@ -2,7 +2,7 @@
 
 My learning roadmap, 2020 - and beyond!
 
-<img src="assets/FED-logo.png" width="90" height="90" alt="A shield with open and closing code braces as the crest">
+<img src="assets/FED-logo.png" width="80" height="90.21" alt="A shield with open and closing code braces as the crest">
 
 ## Things to learn
 
