@@ -21,9 +21,10 @@ Taken from @kamranahmedse's [roadmap.sh](https://roadmap.sh). Scribbled on by me
 ## Things to learn
 
 - [ ] GraphQL
-- [ ] Docker / Docker Compose / Kubernetes
-- [ ] Node / Express
+- [x] Docker / Docker Compose
+- [ ] Kubernetes
+- [x] Node / Express
 - [ ] JWT Auth login, etc.
-- [ ] Local Storage
-- [ ] Users, Database managment
+- [x] Local Storage
+- [x] Users, Database managment
 - [ ] Networking 101
