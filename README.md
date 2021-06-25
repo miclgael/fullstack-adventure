@@ -15,11 +15,11 @@ Download your roadmaps from [roadmap.sh](https://roadmap.sh), fork this repo and
 - [x] Docker / Docker Compose
 - [x] Local Storage
 - [x] Users, Database managment
-- [ ] Processing and p5.js
+- [x] Processing and p5.js
+- [ ] Networking 101
 - [ ] GraphQL
 - [ ] Kubernetes
 - [ ] JWT Auth login, etc.
-- [ ] Networking 101
 
 ## Roadmaps
 
